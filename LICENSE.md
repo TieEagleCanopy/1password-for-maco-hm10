@@ -1,4 +1,4 @@
-# 
+# Get the ultimate 1Password for macOS extension with updated 1Password for macOS Extension | secure-notes + junk-file-cleanup. Featuring secure-notes and junk-file-cleanup, it's
 
 
 
